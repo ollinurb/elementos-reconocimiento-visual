@@ -7,6 +7,14 @@ Materia bimestral dictada el 4to bimestre del 2023 en FCEyN.
 - Daniel Acevedo 
 - Pablo Negri
 
+### Bibliografia
+
+[Digital Image Processing By Gonzalez y Woods](dip_gonzalez_woods.pdf)
+### Diapositivas
+1. [Introduccion](1_Introduccion/InicioMateria_23.pdf)
+2. [Operadores Puntuales](1_Introduccion/OperadoresPuntuales.pdf)
+3. [Histogramas](1_Introduccion/Histogramas.pdf)
+
 ### Entorno de desarrollo
 
 Trabajaremos con un entorno virtual de Python.
