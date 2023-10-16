@@ -2,6 +2,9 @@
 
 Materia bimestral dictada el 4to bimestre del 2023 en FCEyN.
 
+### Prácticas
+1. [Práctica 1](practica_1.ipynb)
+
 #### Docentes:
 - María Elena Buemi 
 - Daniel Acevedo 
